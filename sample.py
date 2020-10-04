@@ -1,0 +1,1 @@
+print("syslog collection sbts ")
